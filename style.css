@@ -120,6 +120,7 @@ div{
 .flex{
     display: flex;
     flex-wrap: wrap;
+    margin: auto;
 }
 .box{
     padding: 10px;
