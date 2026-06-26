@@ -11,7 +11,7 @@ body{
 a{
     color: #242424;
     text-decoration: none;
-    padding: 3px;
+    padding: 20px;
 }
 
 em{
@@ -43,6 +43,8 @@ header,footer{
     background: linear-gradient(90deg, #8e86b5, #acaeed);
     color: white;
     border-radius: 50px;
+    padding-top: 1px;
+    margin: 15px;
 }
 
 .carre-contenu{
@@ -98,4 +100,27 @@ td,th{
     color: white;
     padding:50px;
 
+}
+.Contact{
+padding:10px;
+}
+label{
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+input{
+    padding: 10px;
+    margin: 10px;
+}
+div{
+    display: flex;
+    justify-content: left;
+}
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+}
+.box{
+    padding: 10px;
 }
